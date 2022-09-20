@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "Asado ",
+        "description": "Asado (entrañas) con achuras",
+        "price": "432"
+    },
+    {
+        "id": 2,
+        "name": "Risotto",
+        "description": "Risotto con berenjena y queso de cabra",
+        "price": 800
+    },
+    {
+        "id": 3,
+        "name": "Milanesa",
+        "price": "500",
+        "description": "La mejor milanesa"
+    },
+    {
+        "id": 4,
+        "name": "Arroz con pollo",
+        "price": 12,
+        "description": "Arroz con cazuela de pollo a la mostaza"
+    },
+    {
+        "id": 5,
+        "name": "Milanesa 2",
+        "price": 321,
+        "description": "Milanesa exquisita",
+        "image": "image-1663631868071.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Ramen",
+        "price": 3123,
+        "description": "Ramen (caro)",
+        "image": "image-1663632236590.avif"
+    }
+]
